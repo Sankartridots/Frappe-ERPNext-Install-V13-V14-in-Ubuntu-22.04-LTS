@@ -30,7 +30,7 @@ complete Guide to Install Frappe/ERPNext in Ubuntu 22.04 LTS
     su root
     nano /etc/sudoers
 
-    truser_name iodts ALL=(ALL:ALL) ALL
+    truser_name ALL=(ALL:ALL) ALL
 
     sudo apt-get update
 
